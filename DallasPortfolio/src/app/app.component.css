@@ -1,0 +1,47 @@
+.header {
+    color: azure;
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: #353D2F;   
+    color: azure;
+    height: 960px;
+}
+.wrapper {
+    margin: auto;
+    text-align: center;
+    background-color: #515B3A;
+    padding: 20px;
+    margin-top: 50px;
+    width: 25%;
+    border-radius: 25px;
+}
+.toolbar {
+    /* background-color: #6D9DC5; */
+    font-size:2em;
+    letter-spacing: .2em;
+    z-index: -1;
+    color:black;
+}
+
+.navButton {
+    text-decoration: none;
+    color:white;
+    font-family: 'PT Serif', serif;
+    font-size: 25px;
+    /* background-color: #6D9DC5; */
+}
+.image {
+    width: 50%;
+    border-radius: 20px;
+}
+.imageWrapper {
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+    background-color: #E6FAFC;
+    padding: 20px;
+    width: 50%;
+    border-radius: 20px;
+}
